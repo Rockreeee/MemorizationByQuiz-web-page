@@ -11401,7 +11401,7 @@ hr.divider-heavy {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0) 0%, rgba(92, 77, 66, 0) 100%), url("../assets/img/portfolio/thumbnails/1.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0) 0%, rgba(92, 77, 66, 0) 100%), url("../assets/img/bg-masthead.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11431,11 +11431,11 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .download {
-  background: linear-gradient(rgba(150, 200, 200, 1), rgba(255, 255, 255, 1))
+  background: linear-gradient(rgba(150, 200, 200, 1), rgba(100, 150, 225, 1))
 }
 
 .explanation {
-  background: linear-gradient(rgba(255, 255, 255, 1), rgba(150, 200, 200, 1))
+  background: linear-gradient(rgba(100, 150, 225, 1), rgba(61, 90, 254, 1))
 }
 
 #portfolio {
@@ -11443,7 +11443,7 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .agreement {
-  background: linear-gradient(rgba(150, 200, 200, 1), rgba(255, 255, 255, 1));
+  background: linear-gradient(rgba(101, 254, 250, 1), rgba(255, 255, 255, 1));
   font-size: 0.7rem;
 }
 
